@@ -3,7 +3,7 @@
 <title>My website </title>
 <style>
 body {
-  background-image: url('hb.jpg');
+  background-image: url('wp2920015-happy-birthday-wallpaper-hd.jpg');
 background-size: 1500px 630px;
 background-repeat: no-repeat;
 } 
